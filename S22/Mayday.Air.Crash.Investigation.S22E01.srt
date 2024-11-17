@@ -520,7 +520,7 @@ flight 981 are restless
 113
 00:06:16,059 --> 00:06:18,059
 the pilots are
-holding at 15000 feet
+holding at 15,000 feet
 
 114
 00:06:18,862 --> 00:06:19,862
@@ -641,7 +641,7 @@ for another approach
 
 140
 00:07:41,142 --> 00:07:42,942
-50000 feet over Rostov-on-don
+15,000 feet over Rostov-on-don
 
 141
 00:07:43,669 --> 00:07:45,269
