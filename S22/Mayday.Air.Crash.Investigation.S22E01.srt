@@ -259,9 +259,9 @@ their landing gear
 it's very gradual process
 
 58
-00:03:21,942 --> 00:03:23,942
-it should be a bit bumpy
-and later should be calm
+00:03:21,942 --> 00:03:24,542
+it should be a bit bumpy and
+then later it should be calm
 
 59
 00:03:25,304 --> 00:03:27,304
@@ -319,13 +319,13 @@ especially at low altitude
 
 71
 00:04:03,782 --> 00:04:06,782
-the wind-shear alert is build into
+the wind-shear alert is built into
 the aircraft's avionics to tell you
 
 72
 00:04:07,745 --> 00:04:10,285
-going in the wind currents
-that could be problematic
+if you're going into the wind
+currents that could be problematic
 
 73
 00:04:11,107 --> 00:04:12,387
@@ -375,19 +375,19 @@ off the top of their heads
 there's no manual involved
 
 83
-00:04:42,663 --> 00:04:44,863
-they have a limit the amount
-of approaches that can try
+00:04:42,463 --> 00:04:44,863
+they have no limit the amount
+of approaches that they can try
 
 84
 00:04:44,939 --> 00:04:46,519
 as long as they
-have enough fuels
+have enough fuel
 
 85
 00:04:46,620 --> 00:04:48,620
 so why not go-around
-and let's try it again
+and just try it again
 
 86
 00:04:49,422 --> 00:04:50,542
@@ -532,7 +532,7 @@ waiting for a chance to land
 
 116
 00:06:24,290 --> 00:06:27,605
-the pilot sit on a holding pattern since
+the pilot sit in a holding pattern since
 that had enough fuel to be able to do so
 
 117
@@ -582,9 +582,9 @@ the problem with diverting is that
 it's expensive and it's inconvenient
 
 127
-00:07:06,941 --> 00:07:08,941
-the passengers don't
-end up with the destination
+00:07:06,941 --> 00:07:09,041
+the passengers don't end
+up at their the destination
 
 128
 00:07:09,183 --> 00:07:11,183
@@ -677,7 +677,7 @@ apologize for the delay
 
 148
 00:08:05,744 --> 00:08:08,343
-the pilots lined up
+the pilots line up
 for a second approach
 
 149
@@ -687,6 +687,7 @@ be advised
 150
 00:08:11,701 --> 00:08:13,381
 low altitude had wind 53 knots
+light icing
 
 151
 00:08:15,699 --> 00:08:17,699
@@ -852,12 +853,12 @@ plane hit the ground?
 
 186
 00:11:11,859 --> 00:11:14,922
-the size of the debris would tell
-weather it's a high speed impact
+the signs of the debris would tell
+weather there's a high speed impact
 
 187
 00:11:15,902 --> 00:11:17,582
-or it's low speed impact
+or there's low speed impact
 
 188
 00:11:18,023 --> 00:11:20,023
@@ -930,7 +931,7 @@ have a problematic history
 
 203
 00:12:26,220 --> 00:12:28,260
-March the Th 1991
+March the Third 1991
 
 204
 00:12:29,024 --> 00:12:31,024
@@ -956,8 +957,8 @@ and crashes near Pittsburgh
 
 209
 00:12:46,661 --> 00:12:49,760
-investigators with tearing
-their out trying to figured it out
+investigators are tearing their
+hair out trying to figured it out
 
 210
 00:12:50,620 --> 00:12:52,620
@@ -993,7 +994,7 @@ their best lead yet
 
 217
 00:13:14,283 --> 00:13:15,783
-after 5 year of investigation
+after a five-year of investigation
 
 218
 00:13:15,939 --> 00:13:18,501
@@ -1010,12 +1011,12 @@ a power unit in the rudder
 
 221
 00:13:22,264 --> 00:13:25,264
-that'd been responsible for
-auto corner rudder hard over
+had been responsible for
+what's called a rudder hardover
 
 222
 00:13:26,501 --> 00:13:29,101
-the rudder head
+the rudder had
 moved to one side
 
 223
@@ -1098,7 +1099,7 @@ crucial information
 
 240
 00:14:19,380 --> 00:14:22,680
-PCUs of the heart and soul of
+PCUs are the heart and soul of
 the flight controls of the airplane
 
 241
@@ -1113,12 +1114,12 @@ a screaming out of sky
 
 243
 00:14:26,479 --> 00:14:27,479
-50 degree angle is
+at 50 degree angle is
 
 244
 00:14:27,899 --> 00:14:31,042
-that we have a PCU
-problem in the flight controls
+did we have a PCU
+problem in the flight controls?
 
 245
 00:14:32,983 --> 00:14:36,700
@@ -1151,7 +1152,7 @@ issues ruled out
 
 251
 00:15:01,867 --> 00:15:04,018
-the team turn to the
+the team turns to the
 controller for insight
 
 252
@@ -1414,12 +1415,12 @@ textbook wind shear go around
 
 310
 00:18:00,864 --> 00:18:02,864
-pilot encounters a wind shear
+if a pilot encounters wind shear
 
 311
 00:18:02,946 --> 00:18:05,946
 he'll typically perform a what's
-call a wind shear scape maneuver
+call a wind shear escape maneuver
 
 312
 00:18:06,619 --> 00:18:09,681
@@ -1519,7 +1520,7 @@ it's pretty strong gust of wind
 333
 00:19:10,506 --> 00:19:12,506
 they can see that on
-the flight not a recorder
+the flight data recorder
 
 334
 00:19:13,901 --> 00:19:17,423
@@ -1544,7 +1545,7 @@ position to be in
 338
 00:19:29,902 --> 00:19:31,710
 how did the pilots
-responds this time?
+respond this time?
 
 339
 00:19:31,820 --> 00:19:32,820
@@ -1584,7 +1585,7 @@ a different procedure
 
 347
 00:20:03,984 --> 00:20:07,506
-they didn't fly the wind shear scape
+they didn't fly the wind shear escape
 maneuver during the second go around
 
 348
@@ -1746,12 +1747,13 @@ we need to do modeling on this
 
 382
 00:22:15,981 --> 00:22:19,381
-it was really incompetent
-upon investigators to look further
+it was really incumbent upon
+the investigators to look further
 
 383
 00:22:19,384 --> 00:22:21,517
-and the question of acceleration
+into the question
+of the acceleration
 
 384
 00:22:23,571 --> 00:22:27,461
@@ -1804,8 +1806,8 @@ findings when they realized that
 
 395
 00:23:08,265 --> 00:23:11,657
-over 40% difference existent
-between the acceleration
+over 40% difference exist
+in between the acceleration
 
 396
 00:23:12,182 --> 00:23:14,239
@@ -1873,8 +1875,8 @@ sudden acceleration like this
 both horizontal and vertical
 
 410
-00:24:06,343 --> 00:24:07,343
-that tricks on your mind
+00:24:06,343 --> 00:24:07,843
+that'll play tricks on your mind
 
 411
 00:24:09,180 --> 00:24:12,263
@@ -2067,7 +2069,7 @@ is due to the pitch
 452
 00:26:07,419 --> 00:26:09,319
 and what was the
-pilots perceived pitch?
+pilots' perceived pitch?
 
 453
 00:26:10,543 --> 00:26:15,646
@@ -2086,7 +2088,7 @@ illusionary pitch
 
 456
 00:26:22,582 --> 00:26:24,282
-pilot's perceived pitch was
+pilots' perceived pitch was
 
 457
 00:26:25,064 --> 00:26:26,064
@@ -2095,7 +2097,7 @@ pilot's perceived pitch was
 458
 00:26:27,906 --> 00:26:31,419
 they compare the plane's actual
-pitch to the pilot's illusionary pitch
+pitch to the pilots' illusionary pitch
 
 459
 00:26:31,820 --> 00:26:33,420
@@ -2134,7 +2136,7 @@ into a situation
 467
 00:27:09,542 --> 00:27:12,405
 that he potentially will be
-experiencing Somatogravic illusion
+experiencing a Somatogravic illusion
 
 468
 00:27:12,947 --> 00:27:14,547
@@ -2147,7 +2149,7 @@ doing something else
 
 470
 00:27:17,220 --> 00:27:18,220
-look at this
+get this
 
 471
 00:27:18,622 --> 00:27:19,742
@@ -2181,7 +2183,7 @@ between the plane's actual
 
 478
 00:27:39,539 --> 00:27:41,139
-and the pilot's perceived pitch
+and the pilots' perceived pitch
 
 479
 00:27:43,503 --> 00:27:44,503
@@ -2600,7 +2602,7 @@ that alarmed them
 567
 00:32:31,219 --> 00:32:34,319
 one thing that could have
-possibly saved that aircraft was
+possibly saved this aircraft was
 
 568
 00:32:34,582 --> 00:32:37,582
@@ -2618,8 +2620,8 @@ and he continues
 
 571
 00:32:44,143 --> 00:32:47,643
-tell him what you want done and do
-not wait for the captain inquire with you
+tell him what you want done and do not
+wait for the captain to inquire with you
 
 572
 00:32:48,099 --> 00:32:50,099
@@ -2671,7 +2673,7 @@ the plane in the first place?
 582
 00:33:24,781 --> 00:33:28,481
 the big mystery was why was this crew
-so determine to land on Rostov-on-done
+so determine to land at Rostov-on-done
 
 583
 00:33:28,523 --> 00:33:31,123
@@ -2832,8 +2834,8 @@ dispatcher's recommendation
 
 618
 00:34:59,027 --> 00:35:02,560
-minuter turns to hours as the
-pilot wait for a chance to land
+minutes turns to hours as the
+pilots wait for a chance to land
 
 619
 00:35:03,347 --> 00:35:06,382
@@ -2990,13 +2992,13 @@ ability to land the plane safely?
 
 653
 00:36:44,902 --> 00:36:46,902
-two hours of hold
+two hours a hold
 six hours total time
 
 654
 00:36:47,182 --> 00:36:50,683
-aren't we see decline in the decision
-making capability because of fatigue?
+aren't we seeing a decline in the decision
+making capabilities because of fatigue?
 
 655
 00:36:51,626 --> 00:36:52,626
@@ -3051,7 +3053,7 @@ and 6 in the morning
 666
 00:37:25,782 --> 00:37:30,425
 that's the point of which your mental
-ability is pretty much at is lowest
+ability is pretty much at its lowest
 
 667
 00:37:32,547 --> 00:37:34,047
@@ -3150,7 +3152,7 @@ two different airplanes from there
 
 687
 00:38:31,183 --> 00:38:34,322
-this blunder factors heavily
+this blunder factored heavily
 into the catastrophe that followed
 
 688
@@ -3178,7 +3180,7 @@ few seconds that doomed flight 981
 693
 00:38:53,462 --> 00:38:54,842
 keep it at 50 degrees
-goes up
+nose up
 
 694
 00:38:55,384 --> 00:38:57,884
