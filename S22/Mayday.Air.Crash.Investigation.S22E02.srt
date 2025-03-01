@@ -102,8 +102,8 @@ old H. W. van Staveren
 
 24
 00:01:36,822 --> 00:01:38,322
-and out of 2404
-level 70
+and out of 240
+for level 70
 
 25
 00:01:39,904 --> 00:01:42,404
@@ -197,17 +197,17 @@ of the Netherlands
 44
 00:02:50,870 --> 00:02:53,102
 we were heading for
-a vocation for weekend
+a vocation for a week
 
 45
 00:02:53,102 --> 00:02:55,402
-the south of particle
-of the Algarve
+the south of Portugal
+in the Algarve
 
 46
 00:02:56,462 --> 00:02:58,542
-going to warmer
-weather than Netherlands
+going to warmer weather
+than Netherlands was
 
 47
 00:02:58,704 --> 00:03:00,504
@@ -232,8 +232,8 @@ Portugal’s Faro airport
 orchards
 
 52
-00:03:21,265 --> 00:03:22,265
-I was traveling with evol
+00:03:21,265 --> 00:03:22,465
+I was traveling with Yvonne
 
 53
 00:03:22,704 --> 00:03:24,637
@@ -260,7 +260,7 @@ raining cats and dogs over there
 
 58
 00:03:40,151 --> 00:03:42,151
-as they descends
+as they descend
 towards Faro airport
 
 59
@@ -276,12 +276,12 @@ to encounter rain-showers
 61
 00:03:50,346 --> 00:03:53,246
 thunderstorm or something that
-you have to incredibly aware of
+you have to be incredibly aware of
 
 62
 00:03:53,985 --> 00:03:56,580
 and ensure that they
-don't effect your flight path
+don't affect your flight path
 
 63
 00:03:57,901 --> 00:03:59,901
@@ -575,7 +575,7 @@ I was squeezing hands
 
 126
 00:07:50,302 --> 00:07:51,802
-firmer and firmer with evol
+firmer and firmer with Yvonne
 
 127
 00:07:54,390 --> 00:07:55,990
@@ -606,7 +606,7 @@ doors into pieces
 133
 00:08:30,224 --> 00:08:32,224
 I was pretty sure we
-were gonna be crush
+were gonna be crushed
 
 134
 00:08:36,206 --> 00:08:40,731
@@ -639,7 +639,7 @@ I didn't see my girlfriend
 140
 00:09:07,305 --> 00:09:09,805
 my first thought was oh, I
-won't ever see evol again
+won't ever see Yvonne again
 
 141
 00:09:12,301 --> 00:09:14,001
@@ -662,8 +662,8 @@ I heard my name
 then I saw in a distance
 
 146
-00:09:24,507 --> 00:09:25,507
-I saw evol downing there
+00:09:24,507 --> 00:09:25,707
+I saw Yvonne standing there
 
 147
 00:09:28,144 --> 00:09:29,664
@@ -690,7 +690,7 @@ aviation disaster in more than a decade
 
 152
 00:09:55,586 --> 00:09:57,286
-a detail investigation
+a detailed investigation
 is now underway
 
 153
@@ -736,7 +736,7 @@ all around
 
 162
 00:10:31,425 --> 00:10:34,485
-the right wing dislodge
+the right wing had dislodged
 from the rest of the aircraft
 
 163
@@ -750,8 +750,8 @@ so it had to have major amount
 of stress to make that wing depart
 
 165
-00:10:45,748 --> 00:10:46,748
-amazing so many survived
+00:10:45,748 --> 00:10:46,948
+it's amazing so many survived
 
 166
 00:10:49,105 --> 00:10:52,724
@@ -765,8 +765,8 @@ died from the post impact fire
 
 168
 00:10:59,985 --> 00:11:04,071
-we were very concerned because if you
-have something that suspect on an aircraft
+we were very concerned because if you have
+something that's suspect on an aircraft
 
 169
 00:11:04,758 --> 00:11:07,003
@@ -853,7 +853,7 @@ it's deep
 
 187
 00:11:57,265 --> 00:11:58,265
-it must come down hard
+it must've come down hard
 
 188
 00:12:01,983 --> 00:12:04,507
@@ -900,7 +900,7 @@ is that all of them?
 
 198
 00:12:25,787 --> 00:12:26,787
-see what we've got
+let's see what we've got
 
 199
 00:12:27,779 --> 00:12:29,379
@@ -917,11 +917,11 @@ we had to determine
 202
 00:12:35,779 --> 00:12:37,904
 was there some
-kind of malfunction?
+kind of malfunction
 
 203
 00:12:38,341 --> 00:12:39,341
-in the engine
+in the engine?
 
 204
 00:12:41,185 --> 00:12:44,986
@@ -957,7 +957,7 @@ it's known as making metal
 
 211
 00:13:06,224 --> 00:13:09,246
-wires the more metal on
+why is there more metal on
 this detector than expected
 
 212
@@ -1081,7 +1081,7 @@ was something wrong with that gear
 
 238
 00:14:36,500 --> 00:14:37,500
-and the metal used
+in the metal used
 
 239
 00:14:37,942 --> 00:14:39,942
@@ -1089,7 +1089,7 @@ or maybe the maintenance on it
 
 240
 00:14:40,462 --> 00:14:42,982
-anything that would cause
+anything that could cause
 the gear to fail in any way
 
 241
@@ -1115,6 +1115,7 @@ of landing gear yet?
 245
 00:14:59,222 --> 00:15:00,222
 not yet
+we're rushing
 
 246
 00:15:05,509 --> 00:15:07,209
@@ -1212,8 +1213,8 @@ it wasn't too heavy
 
 268
 00:16:36,460 --> 00:16:41,123
-the weight of the plane is not what
-cause the landing gear to fail on touchdown
+the weight of the plane is not what caused
+the landing gear to fail on touchdown
 
 269
 00:16:43,459 --> 00:16:45,259
@@ -1271,7 +1272,7 @@ were looking for
 
 281
 00:17:26,744 --> 00:17:29,244
-is any preexistence
+is any pre-existent
 weaknesses on the steel
 
 282
@@ -1291,7 +1292,7 @@ called a Vickers hardness test
 
 285
 00:17:42,178 --> 00:17:45,578
-Vickers hardness test is
+the Vickers hardness test is
 an industry standard test
 
 286
@@ -1302,7 +1303,7 @@ particular component or piece of metal
 287
 00:17:51,225 --> 00:17:54,251
 a pyramid shaped diamond
-is presses into the steel
+is pressed into the steel
 
 288
 00:17:54,619 --> 00:17:56,619
@@ -1347,7 +1348,7 @@ airplane touch the runway
 
 297
 00:18:27,704 --> 00:18:31,781
-there are still no clues that's gonna help
+there are still no clues that can help
 explain why the landing gear fractured
 
 298
@@ -1442,11 +1443,11 @@ sink rate
 318
 00:19:40,349 --> 00:19:42,249
 the airplane fell like
-god toke his hands
+god took his hands
 
 319
 00:19:42,900 --> 00:19:43,900
-rounded into the ground
+rammed it into the ground
 
 320
 00:19:45,181 --> 00:19:46,181
@@ -1532,7 +1533,7 @@ their final approach
 337
 00:20:35,183 --> 00:20:37,183
 and confirmed they
-had a runway insight
+had the runway in sight
 
 338
 00:20:37,754 --> 00:20:39,254
@@ -1697,7 +1698,7 @@ traffic controller reports
 372
 00:22:40,622 --> 00:22:43,985
 the crew statements don't match
-the controllers account of the weather
+the controller's account of the weather
 
 373
 00:22:45,987 --> 00:22:46,987
@@ -1734,13 +1735,13 @@ data from the cockpit voice
 recorder is ready to be reviewed
 
 380
-00:23:12,461 --> 00:23:13,461
-approach at 50 flaps
+00:23:12,461 --> 00:23:13,961
+on the approach to 50 flaps
 
 381
 00:23:14,984 --> 00:23:17,284
-you can't approach in
-minimum and field in sight
+you call approaching
+minimums and field in sight
 
 382
 00:23:17,540 --> 00:23:18,820
@@ -1752,7 +1753,7 @@ wet runway
 
 384
 00:23:21,943 --> 00:23:22,943
-here the wipers
+here are the wipers
 
 385
 00:23:23,384 --> 00:23:24,384
@@ -1845,7 +1846,7 @@ now speed is an issue
 
 405
 00:24:25,578 --> 00:24:27,178
-going on to a wet runway
+going onto a wet runway
 
 406
 00:24:27,580 --> 00:24:29,580
@@ -1854,13 +1855,13 @@ is very very important
 
 407
 00:24:29,861 --> 00:24:32,443
-so if you don't have too much
-the airplane floats
+so that you don't have too
+much and the airplane floats
 
 408
 00:24:32,667 --> 00:24:36,067
-but if you don't have too little
-you end up impacting the runway quite hard
+but that you don't have too little you
+end up impacting the runway quite hard
 
 409
 00:24:37,420 --> 00:24:38,420
@@ -1922,7 +1923,7 @@ at this moment
 
 422
 00:25:17,705 --> 00:25:19,305
-it raises the question
+it raises a question
 
 423
 00:25:19,383 --> 00:25:22,422
@@ -1935,7 +1936,7 @@ let's look at the descent profile
 
 425
 00:25:25,830 --> 00:25:28,891
-if flight 495 flawing
+if flight 495 flaw in
 on the right trajectory
 
 426
@@ -1976,7 +1977,7 @@ responding to those changes
 
 434
 00:25:54,459 --> 00:25:55,459
-auto pilot is on
+autopilot is on
 
 435
 00:25:55,900 --> 00:25:56,900
@@ -1994,7 +1995,7 @@ and
 
 438
 00:26:00,905 --> 00:26:02,505
-they dipped here and recover
+they dip here and recover
 
 439
 00:26:05,139 --> 00:26:06,139
@@ -2103,7 +2104,7 @@ weather conditions on final approach
 
 463
 00:27:34,742 --> 00:27:37,524
-investigators ask the
+investigators asked the
 Netherlands aerospace laboratory
 
 464
@@ -2246,7 +2247,7 @@ as quickly as they did
 494
 00:29:16,702 --> 00:29:20,502
 means that the levers were
-moved faster than auto throttle
+moved faster than the auto throttle
 
 495
 00:29:20,623 --> 00:29:22,623
@@ -2284,8 +2285,8 @@ was the flying pilot
 
 502
 00:29:47,661 --> 00:29:50,347
-made a decision to override
-the auto throttle system
+made the decision to
+override the auto throttle system
 
 503
 00:29:51,068 --> 00:29:53,104
@@ -2326,7 +2327,7 @@ feet per minute for the DC-10
 511
 00:30:15,261 --> 00:30:17,461
 as a consequence
-of the reduce power
+of the reduced power
 
 512
 00:30:17,824 --> 00:30:20,845
@@ -2430,7 +2431,7 @@ when exactly?
 
 534
 00:31:40,145 --> 00:31:42,145
-the first one was it 700 feet
+the first one was at 700 feet
 
 535
 00:31:44,901 --> 00:31:47,901
@@ -2502,7 +2503,7 @@ aerodynamic performance
 549
 00:32:41,426 --> 00:32:44,499
 if you don't have the thrust
-to compensate for, right away
+to compensate for right away
 
 550
 00:32:44,781 --> 00:32:45,781
@@ -2652,7 +2653,7 @@ have stepped in sooner
 
 581
 00:35:12,262 --> 00:35:14,842
-it should have recognize
+it should have recognized
 something was not right
 
 582
@@ -2784,8 +2785,8 @@ instead of runway 11
 
 610
 00:37:33,583 --> 00:37:37,583
-investigators discover the the
-air traffic controllers at Faro airport
+investigators discover that air
+traffic controllers at Faro airport
 
 611
 00:37:37,700 --> 00:37:40,739
@@ -2895,7 +2896,7 @@ gear down
 
 634
 00:39:10,904 --> 00:39:12,904
-with the runway at Faro 
+with the runway at Faro
 underwater
 
 635
