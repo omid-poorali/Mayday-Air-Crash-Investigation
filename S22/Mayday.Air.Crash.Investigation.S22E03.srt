@@ -5,7 +5,7 @@ planes speeds down the runway at Guam
 
 2
 00:00:08,381 --> 00:00:09,381
-45
+145
 rotate
 
 3
@@ -104,7 +104,7 @@ copy that
 23
 00:01:44,708 --> 00:01:48,788
 Andersen air force base is both a
-training facility and the launching point
+training facility and a launching point
 
 24
 00:01:48,862 --> 00:01:51,362
@@ -117,12 +117,12 @@ generator one is on
 
 26
 00:02:00,341 --> 00:02:02,341
-engine's ground idle
-27 percent confirmed
+engines ground idle
+25 percent confirmed
 
 27
 00:02:04,023 --> 00:02:06,023
-back to Missouri Missouri
+preflight checklist is complete
 
 28
 00:02:07,420 --> 00:02:09,600
@@ -278,8 +278,8 @@ pilots qualified to fly the B-2
 
 60
 00:04:08,543 --> 00:04:11,604
-the aviators in the B-2 at that
-time are absolute best of the best
+the aviators in the B-2 at that time
+were the absolute best of the best
 
 61
 00:04:12,187 --> 00:04:13,187
@@ -291,7 +291,7 @@ they were vetted extensively
 
 63
 00:04:16,182 --> 00:04:19,584
-they were truly in
+they were truly an
 elite group of aviators
 
 64
@@ -366,11 +366,12 @@ obviously
 
 79
 00:05:19,500 --> 00:05:21,200
-if you scrape the airplane
+if you were to
+scrape the airplane
 
 80
 00:05:21,223 --> 00:05:23,921
-you degrade the capability
+you would degrade the capability
 of the war fighting machine
 
 81
@@ -457,7 +458,7 @@ stop or go?
 99
 00:06:50,666 --> 00:06:52,266
 go
-warning rescinding
+warning rescinded
 
 100
 00:06:54,029 --> 00:06:56,929
@@ -544,9 +545,9 @@ that car turns right
 what is going on?
 
 118
-00:07:55,061 --> 00:07:56,601
+00:07:55,061 --> 00:07:56,701
 that's not the way
-he supposed to work
+it's supposed to work
 
 119
 00:07:56,781 --> 00:07:58,505
@@ -565,7 +566,8 @@ the verge of stalling
 
 122
 00:08:06,981 --> 00:08:08,581
-from my 50 years flying the B-2
+from my 50 years
+of flying the B-2
 
 123
 00:08:09,543 --> 00:08:12,164
@@ -622,7 +624,7 @@ now scraping the ground
 
 134
 00:09:00,270 --> 00:09:01,790
-we're gonna get out
+we gotta get out
 
 135
 00:09:01,807 --> 00:09:05,160
@@ -701,8 +703,8 @@ aviation accident of all time
 
 151
 00:10:03,021 --> 00:10:06,123
-crash at Guam did
-shake us to the core in the
+crash at Guam did shake
+us to the core and now
 
 152
 00:10:06,162 --> 00:10:08,662
@@ -736,7 +738,7 @@ they have no choice
 158
 00:10:23,619 --> 00:10:27,302
 they have no idea what's
-going wrong inside that B-2
+gone wrong inside that B-2
 
 159
 00:10:27,583 --> 00:10:29,083
@@ -769,7 +771,7 @@ lot of media interest
 165
 00:10:46,661 --> 00:10:48,898
 and so as a senior
-greater general
+brigadier general
 
 166
 00:10:49,500 --> 00:10:54,043
@@ -896,7 +898,7 @@ hear their side of what really happened
 
 193
 00:12:24,227 --> 00:12:28,762
-investigator study the mechanical
+investigators study the mechanical
 and computer systems that control the jet
 
 194
@@ -915,7 +917,7 @@ aircraft already available
 197
 00:12:36,260 --> 00:12:37,960
 actuators, engines
-all those things
+all those things are
 
 198
 00:12:37,981 --> 00:12:40,242
@@ -942,9 +944,9 @@ that the engines
 were not a problem
 
 203
-00:12:52,021 --> 00:12:54,821
-the hydraulics were not problem
-the flight controls were not problem
+00:12:52,021 --> 00:12:54,921
+the hydraulics were not a problem
+the flight controls were not a problem
 
 204
 00:12:55,980 --> 00:12:57,480
@@ -967,12 +969,12 @@ up
 it's a beautiful sunny morning
 
 209
-00:13:07,962 --> 00:13:09,466
+00:13:07,962 --> 00:13:09,566
 why does a bomber
-pitches nose up and
+pitch its nose up and
 
 210
-00:13:09,524 --> 00:13:12,124
+00:13:09,624 --> 00:13:12,224
 crashed in a fireball
 on the runway at Guam?
 
@@ -1024,7 +1026,7 @@ could it have been that?
 221
 00:13:38,061 --> 00:13:40,081
 not enough to disrupt
-their balance there
+their balance sir
 
 222
 00:13:42,583 --> 00:13:46,654
@@ -1039,11 +1041,11 @@ wasn't carrying any bombs
 224
 00:13:50,782 --> 00:13:53,543
 or other heavy cargo that
-could have shift if on take off
+could have shifted if on take off
 
 225
 00:13:55,780 --> 00:13:58,581
-we found up that there
+we found out that there
 really wasn't a lot of equipment
 
 226
@@ -1110,16 +1112,16 @@ right above here
 
 240
 00:14:38,705 --> 00:14:40,205
-because we didn't have video
+because we did have video
 
 241
 00:14:40,699 --> 00:14:41,699
-we had to look at
+we were able to look at
 
 242
 00:14:42,381 --> 00:14:44,002
-take off roll of
-this lead aircraft
+the take off roll
+of this lead aircraft
 
 243
 00:14:44,382 --> 00:14:45,982
@@ -1219,7 +1221,7 @@ out all the easy stuff
 265
 00:16:02,383 --> 00:16:05,704
 and so now we start looking into
-other situations that could have cause
+other situations that could have caused
 
 266
 00:16:06,018 --> 00:16:07,818
@@ -1414,7 +1416,7 @@ started up at 9:15
 
 308
 00:18:35,461 --> 00:18:39,002
-a few minutes later major Links called
+a few minutes later major Links saw
 the calibration message during start up
 
 309
@@ -1437,7 +1439,7 @@ me neither
 313
 00:18:52,423 --> 00:18:54,658
 hey chief we're seeing
-air data cal message
+an error data cal message
 
 314
 00:18:54,658 --> 00:18:56,660
@@ -1611,9 +1613,9 @@ just a flicker
 100 knots
 
 352
-00:20:58,944 --> 00:21:00,983
-before I even push the
-button it rescind itself
+00:20:58,944 --> 00:21:01,183
+before I could even push
+the button it rescinded itself
 
 353
 00:21:02,066 --> 00:21:03,186
@@ -1626,7 +1628,7 @@ FCS caution
 355
 00:21:06,039 --> 00:21:08,220
 after a 100 knots to our
-decision road take speed
+decision rotate speed
 
 356
 00:21:09,141 --> 00:21:11,141
@@ -1703,7 +1705,7 @@ the airplane is trying to stall
 
 372
 00:21:57,422 --> 00:22:00,260
-major link is trying to push it
+major link was trying to push it
 back down, but it wasn't working
 
 373
@@ -1712,9 +1714,9 @@ it doesn't have any
 effect in the plane
 
 374
-00:22:02,542 --> 00:22:04,442
+00:22:02,342 --> 00:22:04,242
 we were basically
-just belong for the ride
+just along for the ride
 
 375
 00:22:07,120 --> 00:22:08,820
@@ -1736,16 +1738,15 @@ then I pulled the handles
 379
 00:22:21,990 --> 00:22:24,023
 if the airplane did not
-performed as advertise
+perform as advertised
 
 380
 00:22:24,381 --> 00:22:26,081
-there was time
-for them to get out
+it was time for them to get out
 
 381
-00:22:26,103 --> 00:22:27,785
-and get the airplane
+00:22:26,103 --> 00:22:27,985
+and give the airplane
 back to the tax payers
 
 382
@@ -1762,7 +1763,7 @@ thank you sir
 
 385
 00:22:34,943 --> 00:22:37,943
-they were extremely force
+they were extremely forthcoming
 coming in their testimony
 
 386
@@ -1790,8 +1791,8 @@ regular start up procedure
 
 391
 00:22:57,261 --> 00:23:00,668
-if a sensor provides a reading
-that differ significantly from others
+if a sensor provides a reading that
+differs significantly from the others
 
 392
 00:23:01,445 --> 00:23:02,445
@@ -1810,7 +1811,7 @@ into agreement with the others
 395
 00:23:10,185 --> 00:23:12,185
 these three were
-just off by little
+not just off by little
 
 396
 00:23:13,028 --> 00:23:14,028
@@ -1850,7 +1851,7 @@ really didn't know
 
 404
 00:23:36,625 --> 00:23:38,645
-how they related but
+how they're related but
 we figured they might be
 
 405
@@ -1881,1514 +1882,1518 @@ stop or go?
 go
 
 411
-00:23:56,440 --> 00:24:01,003
-the flight computer resolve the discrepancy
-between the sensors and cancel the warning
+00:23:56,440 --> 00:24:00,003
+the flight computer resolved the
+discrepancy between the sensors
 
 412
-00:24:02,664 --> 00:24:04,464
-what is going on with
-this plane sensors?
+00:24:00,101 --> 00:24:01,834
+and cancelled the warning
 
 413
+00:24:02,664 --> 00:24:04,464
+what is going on with
+this plane's sensors?
+
+414
 00:24:06,909 --> 00:24:09,859
 they have a mystery
 flaw in the B-2
 
-414
+415
 00:24:10,583 --> 00:24:13,983
-puts the 59th and the
+which puts the 509s and the
 air force under a lot of pressure
 
-415
+416
 00:24:13,983 --> 00:24:18,506
 they have to find out exactly what
 went wrong with the flight controls
 
-416
+417
 00:24:19,306 --> 00:24:22,721
 in order to return that
 fleet to safe operations
 
-417
+418
 00:24:23,261 --> 00:24:25,463
 and the world will
 be watching them
 
-418
+419
 00:24:30,541 --> 00:24:31,541
 okay
 
-419
+420
 00:24:31,582 --> 00:24:32,582
 so
 
-420
+421
 00:24:32,862 --> 00:24:34,542
 let's start at the top
 
-421
+422
 00:24:35,424 --> 00:24:37,418
 why they need to
 recalibrate in the first place?
 
-422
+423
 00:24:39,100 --> 00:24:41,900
 it was a procedure that a
 lot of pilots had never seen
 
-423
+424
 00:24:41,954 --> 00:24:43,654
 and maintainers
 didn't do very often
 
-424
+425
 00:24:46,702 --> 00:24:49,800
 investigators look for any
 abnormalities in the mission
 
-425
+426
 00:24:50,059 --> 00:24:52,401
 that might have had an
 effect on the B-2 sensors
 
-426
+427
 00:24:54,863 --> 00:24:55,863
 hah
 
-427
+428
 00:24:56,004 --> 00:24:57,004
 so
 
-428
+429
 00:24:57,499 --> 00:24:58,499
 they got delayed by a day
 
-429
-00:25:00,263 --> 00:25:01,263
-what it happened was?
-
 430
+00:25:00,263 --> 00:25:01,263
+what had happened was?
+
+431
 00:25:01,421 --> 00:25:04,004
 Whiteman Air Force Base in
 Missouri had severe snow storm
 
-431
+432
 00:25:04,823 --> 00:25:07,423
 it was snowing quite heavily
 visibility was near zero
 
-432
+433
 00:25:08,780 --> 00:25:12,099
 so what we did is we delayed
 the mission to come home
 
-433
+434
 00:25:12,579 --> 00:25:13,579
 24 hours
 
-434
+435
 00:25:15,659 --> 00:25:18,040
 spirit of Kansas was
 left on the tarmac
 
-435
+436
 00:25:18,181 --> 00:25:21,081
 while the pilots waited
-to resume the mission
+to resume their mission
 
-436
+437
 00:25:24,382 --> 00:25:25,382
 okay
 
-437
+438
 00:25:26,223 --> 00:25:29,902
 so the jet was left outside for
 24 hours because of the delay
 
-438
+439
 00:25:31,562 --> 00:25:32,562
 so what
 
-439
+440
 00:25:32,724 --> 00:25:34,084
 check the weather
 
-440
+441
 00:25:34,619 --> 00:25:35,619
 second the last page
 
-441
+442
 00:25:40,740 --> 00:25:41,740
 holy smokes
 
-442
+443
 00:25:42,742 --> 00:25:44,442
 that is one hell a lot of rain
 
-443
+444
 00:25:48,104 --> 00:25:52,404
 weather record showed that a tropical
 rain storm settled over the airbase
 
-444
+445
 00:25:52,581 --> 00:25:54,581
 the night before the accident
 
-445
+446
 00:25:56,743 --> 00:25:57,743
 tell me
 
-446
+447
 00:25:57,862 --> 00:26:00,600
 rain storm didn't take down
 a two billion dollar airplane
 
-447
+448
 00:26:03,741 --> 00:26:08,258
 decisions were made and
 these B-2s were left outside
 
-448
+449
 00:26:08,820 --> 00:26:11,659
 in this particularly
 heavy rain storm
 
-449
+450
 00:26:16,402 --> 00:26:17,402
 okay
 
-450
+451
 00:26:17,483 --> 00:26:18,483
 let's flood these two
 
-451
+452
 00:26:21,426 --> 00:26:23,426
 investigators run
 tests on B-2's sensors
 
-452
+453
 00:26:24,499 --> 00:26:26,693
 to determine the effect
 rain may have had on them
 
-453
+454
 00:26:31,501 --> 00:26:32,501
 and stop
 
-454
+455
 00:26:35,820 --> 00:26:36,820
 gotta be kidding me
 
-455
+456
 00:26:37,542 --> 00:26:40,900
 tests confirmed that the sensors
 exposed to the heaviest rain fall
 
-456
+457
 00:26:41,419 --> 00:26:43,719
 got saturated and
 needed recalibrating
 
-457
+458
 00:26:46,898 --> 00:26:47,898
 even prior to that
 
-458
-00:26:48,381 --> 00:26:50,181
-when it was in
-test in development
-
 459
-00:26:50,262 --> 00:26:52,543
-we've never experienced
-that much rain on the system
+00:26:48,381 --> 00:26:50,181
+when it was in test
+and development
 
 460
-00:26:53,344 --> 00:26:57,021
-so no one really knew how
-that would adversely effect
+00:26:50,262 --> 00:26:52,543
+we'd never experienced
+that much rain on the system
 
 461
+00:26:53,344 --> 00:26:57,021
+so no one really knew how
+that would adversely affect
+
+462
 00:26:57,581 --> 00:26:59,581
 the operations of the B-2
 
-462
+463
 00:27:00,699 --> 00:27:03,761
 the reason no one realize
-how heavy rain effect the B-2
-
-463
-00:27:03,836 --> 00:27:07,161
-is the it's almost always
-parked inside a hanger
+how heavy rain affects the B-2
 
 464
+00:27:03,836 --> 00:27:07,161
+is that it's almost always
+parked inside a hanger
+
+465
 00:27:07,341 --> 00:27:10,241
 at white man air
 force base over night
 
-465
+466
 00:27:11,063 --> 00:27:13,906
 even if it's flying a mission
 over Afghanistan or Libyan
 
-466
+467
 00:27:15,020 --> 00:27:17,020
 it returns to Missouri
 
-467
+468
 00:27:20,663 --> 00:27:25,142
 the B-2's occasional deployment to
 Guam presented different weather conditions
 
-468
+469
 00:27:26,862 --> 00:27:29,705
 could heavy rain be the simple
 explanation for this accident?
 
-469
+470
 00:27:31,371 --> 00:27:34,061
 this would not have happened
-in a the desert environment
+in a desert environment
 
-470
+471
 00:27:34,742 --> 00:27:36,742
 this would not have
 happened at whiteman
 
-471
+472
 00:27:36,743 --> 00:27:37,743
 but Guam is very unique
 
-472
+473
 00:27:38,464 --> 00:27:40,585
 they left the B-2 parked
 out all night in the rain
 
-473
+474
 00:27:41,026 --> 00:27:42,026
 the moisture got in there
 
-474
+475
 00:27:45,060 --> 00:27:46,760
 see something
 just doesn't add up
 
-475
+476
 00:27:49,484 --> 00:27:50,984
 they did the recalibration
 
-476
+477
 00:27:52,578 --> 00:27:54,018
 you good to go sir
 
-477
+478
 00:27:54,861 --> 00:27:56,861
 but they still ended
 up with faulty data
 
-478
+479
 00:27:57,423 --> 00:27:58,423
 that nearly kill them
 
-479
+480
 00:27:58,864 --> 00:27:59,864
 yeah
 
-480
+481
 00:28:01,426 --> 00:28:02,426
 full power
 
-481
+482
 00:28:03,426 --> 00:28:06,926
 state of the art military
 jet put itself into a stall
 
-482
+483
 00:28:07,100 --> 00:28:09,682
 because it was getting faulty
 data about its climb angle
 
-483
+484
 00:28:10,782 --> 00:28:12,482
 investigators still don't know why
 
-484
+485
 00:28:14,939 --> 00:28:19,742
 the B-2 is always operated under
 so much pressure and scrutiny
 
-485
+486
 00:28:20,583 --> 00:28:24,554
 if they can’t figure out what
-went wrong that day in Guam
+went wrong that morning on Guam
 
-486
+487
 00:28:25,320 --> 00:28:26,320
 honestly
 
-487
+488
 00:28:26,500 --> 00:28:29,041
 this could be the end of
 the B-2 bomber program
 
-488
+489
 00:28:31,263 --> 00:28:32,263
 okay
 
-489
+490
 00:28:32,544 --> 00:28:33,544
 so
 
-490
+491
 00:28:33,938 --> 00:28:35,938
 they recalibrate at
 
-491
+492
 00:28:37,061 --> 00:28:38,061
 09:34
 
-492
+493
 00:28:41,304 --> 00:28:42,304
 nearly an hour later
 
-493
+494
 00:28:43,862 --> 00:28:46,402
 the master caution lights up
 because of an air data issue
 
-494
+495
 00:28:47,904 --> 00:28:48,904
 so
 
-495
+496
 00:28:49,059 --> 00:28:51,601
 what happens in
 those 56 minutes?
 
-496
+497
 00:28:52,741 --> 00:28:55,772
 investigators review what the
 pilots told them about the flight
 
-497
+498
 00:28:57,545 --> 00:28:58,545
 routine taxi
 
-498
+499
 00:28:59,547 --> 00:29:00,547
 they hit the pitot heat
 
-499
+500
 00:29:01,259 --> 00:29:02,259
 wait for the timer
 
-500
+501
 00:29:03,262 --> 00:29:04,262
 and they're off
 
-501
+502
 00:29:05,262 --> 00:29:06,262
 so
 
-502
+503
 00:29:09,464 --> 00:29:10,744
 what about this?
 
-503
+504
 00:29:14,179 --> 00:29:17,222
 they are small heaters connected
 to each of the plane's sensors
 
-504
+505
 00:29:18,423 --> 00:29:19,423
 just before take off
 
-505
+506
 00:29:19,864 --> 00:29:21,544
 the pilots activate the heaters
 
-506
+507
 00:29:21,625 --> 00:29:22,986
 so the sensors don't freeze up
 
-507
+508
 00:29:23,085 --> 00:29:26,361
 when the plane reaches cooler
 temperature at higher altitudes
 
-508
+509
 00:29:27,260 --> 00:29:30,061
 we can't take off advanced the
 power and go down the runway
 
-509
+510
 00:29:30,663 --> 00:29:32,282
 until we put the pitot heat on
 
-510
+511
 00:29:33,183 --> 00:29:34,463
 pitot heat is on
 
-511
+512
 00:29:34,635 --> 00:29:38,262
 it's essential that those
 sensors are getting heated
 
-512
+513
 00:29:40,502 --> 00:29:43,002
 investigators wonder
 if the pitot heat
 
-513
+514
 00:29:43,064 --> 00:29:45,964
 could have effected
 the recalibrated sensors
 
-514
+515
 00:29:46,460 --> 00:29:47,460
 clear right
 
-515
+516
 00:29:47,701 --> 00:29:48,741
 go to line up
 
-516
+517
 00:29:49,099 --> 00:29:51,138
 we didn't know enough
 to really put them together
 
-517
+518
 00:29:51,579 --> 00:29:54,180
 and so we had to go get better
 understanding of the system
 
-518
+519
 00:29:54,662 --> 00:29:56,662
 and we did that
 through engineers that
 
-519
+520
 00:29:56,662 --> 00:29:58,182
 actually build the system
 
-520
+521
 00:29:59,620 --> 00:30:02,922
 he saw the frequency of our calibration
 he was surprised and concerned
 
-521
+522
 00:30:04,464 --> 00:30:05,464
 and then
 
-522
+523
 00:30:05,545 --> 00:30:08,079
 they turn on pitot heat
 when they get to the runway
 
-523
+524
 00:30:08,859 --> 00:30:11,981
 and then he was really
 concerned when he saw
 
-524
+525
 00:30:12,543 --> 00:30:15,143
 and understood
 like he only could
 
-525
+526
 00:30:15,304 --> 00:30:18,140
 that with moisture in the system
 and the data we put into it to fix it
 
-526
+527
 00:30:19,541 --> 00:30:21,541
 could cause such a problem
 
-527
+528
 00:30:22,664 --> 00:30:24,464
 on the day of the accident
 
-528
+529
 00:30:24,579 --> 00:30:27,742
 turning on the pitot heat had a
 consequence that no one anticipated
 
-529
+530
 00:30:31,619 --> 00:30:35,602
 recalibrating the sensors brought
 the 3 wet ones in line with the others
 
-530
+531
 00:30:36,423 --> 00:30:39,540
 but turning on the pitot heat
 boiled away the moisture
 
-531
+532
 00:30:40,019 --> 00:30:41,702
 bringing the sensors
 back out of alignment
 
-532
+533
 00:30:42,861 --> 00:30:43,861
 first MCT
 
-533
+534
 00:30:45,145 --> 00:30:48,445
 so the data that was put in on
 the calibration now, is invalid again
 
-534
+535
 00:30:48,459 --> 00:30:51,943
 and the flight computers now try to
 resolve the issue with these sensors
 
-535
+536
 00:30:53,811 --> 00:30:58,362
 but the discovery doesn't explain
 another key event, during short flight
 
-536
+537
 00:31:02,265 --> 00:31:03,385
 what was that?
 
-537
+538
 00:31:03,985 --> 00:31:04,985
 FCS caution
 
-538
+539
 00:31:06,827 --> 00:31:11,060
 why did the faulty air data warning
 disappears 6 seconds after it came on?
 
-539
+540
 00:31:13,262 --> 00:31:14,262
 stop or go?
 
-540
+541
 00:31:14,423 --> 00:31:15,423
 go
 
-541
+542
 00:31:15,544 --> 00:31:16,824
 warning rescinded
 
-542
+543
 00:31:24,221 --> 00:31:25,821
 it's seconds from take off
 
-543
+544
 00:31:26,504 --> 00:31:31,028
 US air force investigators looking to
 the logic guiding the B-2's flight computer
 
-544
-00:31:32,419 --> 00:31:33,919
-so it has to make choice
-
 545
+00:31:32,419 --> 00:31:33,919
+so it has to make a choice
+
+546
 00:31:34,943 --> 00:31:36,663
 the flight data computer
 needs a solution
 
-546
+547
 00:31:37,503 --> 00:31:39,003
 and what we mean by that is
 
-547
+548
 00:31:39,504 --> 00:31:41,599
 it can't spend even a
 second or a milliseconds
 
-548
+549
 00:31:43,179 --> 00:31:45,179
 wondering where it is?
 and what needs to be done?
 
-549
+550
 00:31:47,700 --> 00:31:51,663
 the B-2's flight computer is constantly
 receiving four separate data stream
 
-550
+551
 00:31:52,499 --> 00:31:53,499
 from all 24 sensors
 
-551
+552
 00:31:54,821 --> 00:31:57,380
 if there is a discrepancy in
 the values of those channels
 
-552
+553
 00:31:58,178 --> 00:32:02,702
 the computer is programmed to
 select any two of the channels to proceed
 
-553
+554
 00:32:05,785 --> 00:32:06,785
 it just chose wrong
 
-554
+555
 00:32:08,906 --> 00:32:09,906
 yeah, we should fix that
 
-555
+556
 00:32:10,579 --> 00:32:12,979
 it's not voting is to
 throw out bad data
 
-556
+557
 00:32:13,142 --> 00:32:15,342
 what they think is bad data
 keep the good data
 
-557
+558
 00:32:15,422 --> 00:32:16,422
 and it resolves the issue
 
-558
+559
 00:32:17,104 --> 00:32:18,104
 the light goes away
 
-559
+560
 00:32:18,264 --> 00:32:19,918
 the flight computers
 are now good to go
 
-560
+561
 00:32:20,820 --> 00:32:23,701
 and so the pilots are now, okay
 well that must just have been a glitch
 
-561
+562
 00:32:24,782 --> 00:32:25,782
 let's keep going
 
-562
+563
 00:32:25,943 --> 00:32:26,943
 stop or go?
 
-563
+564
 00:32:27,179 --> 00:32:28,179
 go
 warning rescinded
 
-564
+565
 00:32:29,741 --> 00:32:33,824
 the flight computers chose the two channels
 that included the faulty sensor data
 
-565
+566
 00:32:35,905 --> 00:32:36,905
 145
 rotate
 
-566
+567
 00:32:40,140 --> 00:32:42,140
 12 seconds later
 
-567
+568
 00:32:42,183 --> 00:32:43,683
 the plane pitched up abnormally
 
-568
+569
 00:32:43,904 --> 00:32:45,904
 because of the faulty
 air data readings
 
-569
+570
 00:32:47,539 --> 00:32:51,781
 once they rotated the aircraft
 on speed as they thought
 
-570
+571
 00:32:51,782 --> 00:32:52,782
 and left the ground
 
-571
-00:32:53,223 --> 00:32:54,823
-they along for the
-ride at that point
-
 572
+00:32:53,223 --> 00:32:55,023
+they were along for
+the ride at that point
+
+573
 00:32:55,784 --> 00:32:59,420
 but if we calibrating the plane's
 sensors before turning on the pitot heat
 
-573
+574
 00:33:00,260 --> 00:33:01,260
 can be catastrophic
 
-574
+575
 00:33:02,542 --> 00:33:04,624
 why was that the
 official procedure?
 
-575
+576
 00:33:07,620 --> 00:33:09,120
 so hardly any of all that
 
-576
+577
 00:33:10,699 --> 00:33:13,899
 investigators learn that
 recalibration are rarely done
 
-577
+578
 00:33:14,062 --> 00:33:16,462
 while the B-2 is at its
 home base in Missouri
 
-578
+579
 00:33:18,640 --> 00:33:21,181
 but during a deployment
 in Guam in 2006
 
-579
+580
 00:33:22,582 --> 00:33:25,340
 maintenance personnel were
 performing frequent recalibration
 
-580
+581
 00:33:27,381 --> 00:33:28,381
 copy that
 I'm on my way
 
-581
+582
 00:33:30,220 --> 00:33:32,820
 they knew there was a challenge
-bu they didn't what it was
+but they didn't what it was
 
-582
+583
 00:33:32,901 --> 00:33:35,950
 and they did speculate that
 because of the weather in Guam
 
-583
+584
 00:33:36,541 --> 00:33:38,541
 raining a lot more than at home
 
-584
+585
 00:33:39,103 --> 00:33:41,103
 that it might be an
 issue of moisture
 
-585
+586
 00:33:43,061 --> 00:33:45,743
 technicians in Guam spoke
 to an engineer in the US
 
-586
+587
 00:33:46,703 --> 00:33:50,225
 who suggested a procedure to
 remedy the frequent air data calibrations
 
-587
+588
 00:33:51,786 --> 00:33:54,318
 yeah, then we have to do
 an on-board recalibration
 
-588
+589
 00:33:56,822 --> 00:33:58,922
 they were able to talk
 to an engineer that said
 
-589
+590
 00:33:59,340 --> 00:34:01,340
 well before you do
 a data calibration
 
-590
+591
 00:34:01,402 --> 00:34:03,302
 try turning on the pitot heat
 
-591
+592
 00:34:03,650 --> 00:34:06,019
 and burning that
 water out of the system
 
-592
+593
 00:34:06,140 --> 00:34:07,940
 and see if that
 will take care of it
 
-593
+594
 00:34:07,941 --> 00:34:09,941
 I haven't tried that
 good idea though
 
-594
+595
 00:34:12,181 --> 00:34:14,181
 the technician passed
 on the suggestion
 
-595
+596
 00:34:14,701 --> 00:34:15,701
 to the B-2 pilots in Guam
 
-596
+597
 00:34:17,223 --> 00:34:19,580
 try turning on your pitot
-heat before your second step
+heat for 40 seconds instead
 
-597
+598
 00:34:20,660 --> 00:34:21,660
 copy
 
-598
+599
 00:34:22,902 --> 00:34:24,402
 apparently I should do it
 
-599
+600
 00:34:29,942 --> 00:34:30,942
 yep, but
 
-600
+601
 00:34:31,382 --> 00:34:33,062
 our guys didn't do that
 
-601
+602
 00:34:33,664 --> 00:34:35,264
 can you think of a reason why?
 
-602
+603
 00:34:36,500 --> 00:34:40,081
 investigators learned from
 technicians at Whiteman Air Force Base
 
-603
+604
 00:34:40,102 --> 00:34:42,659
 that the procedure
 for activating pitot heat
 
-604
+605
 00:34:42,784 --> 00:34:45,384
 in response to an air-data
 calibration message
 
-605
+606
 00:34:45,440 --> 00:34:46,940
 was not officially adopted
 
-606
+607
 00:34:48,822 --> 00:34:49,822
 really
 
-607
+608
 00:34:51,184 --> 00:34:52,184
 why the heck not?
 
-608
+609
 00:34:53,461 --> 00:34:54,961
 some crews knew about it
 
-609
+610
 00:34:55,460 --> 00:34:56,460
 some did not
 
-610
+611
 00:34:57,185 --> 00:34:58,985
 pilots back in whiteman
 who were not there
 
-611
+612
 00:34:59,024 --> 00:35:01,865
 never heard of it and
 maintainers had never heard of it
 
-612
+613
 00:35:11,064 --> 00:35:12,064
 there is nothing
 
-613
+614
 00:35:12,786 --> 00:35:17,521
 there is nothing anywhere about using pitot
 heat when a calibration message appears
 
-614
+615
 00:35:23,185 --> 00:35:24,625
 you good to go sir
 
-615
+616
 00:35:24,898 --> 00:35:27,098
 neither Ryan Link
 Justin Grieve
 
-616
+617
 00:35:27,460 --> 00:35:29,400
 nor the maintainer
 assigned to their plane
 
-617
+618
 00:35:29,583 --> 00:35:31,883
 was ever told about
 the moisture issue
 
-618
+619
 00:35:32,119 --> 00:35:34,301
 or the informal
 procedure for rectifying it
 
-619
+620
 00:35:34,942 --> 00:35:35,942
 better
 
-620
+621
 00:35:36,902 --> 00:35:38,102
 yeah looks good
 
-621
+622
 00:35:40,020 --> 00:35:42,581
 the maintainers that morning
 were following the tech orders
 
-622
+623
 00:35:43,142 --> 00:35:44,642
 which tell them
 exactly what to do
 
-623
+624
 00:35:45,143 --> 00:35:46,143
 in the preflight
 
-624
+625
 00:35:46,585 --> 00:35:47,585
 but for some reason
 
-625
+626
 00:35:48,024 --> 00:35:50,260
 this new work around to
 compensate for the moisture
 
-626
+627
 00:35:51,100 --> 00:35:53,600
 just hadn't made
 it into the manual
 
-627
+628
 00:35:53,899 --> 00:35:55,520
 and that's a
 little bit of tragedy
 
-628
+629
 00:35:56,822 --> 00:35:57,822
 so
 
-629
+630
 00:35:57,862 --> 00:35:59,362
 these three are wrong
 
-630
+631
 00:36:00,423 --> 00:36:02,939
 what if they used pitot
 heat instead of recalibrating?
 
-631
+632
 00:36:05,221 --> 00:36:07,243
 they would have burned
 off the excess moisture
 
-632
-00:36:08,059 --> 00:36:09,559
-that solved the problem
-
 633
+00:36:08,059 --> 00:36:09,559
+and solved the problem
+
+634
 00:36:10,301 --> 00:36:11,801
 no faulty air data
 
-634
+635
 00:36:12,862 --> 00:36:13,862
 no accident
 
-635
+636
 00:36:14,858 --> 00:36:17,740
 if information had been shared
 from previous deployment 2006
 
-636
+637
 00:36:18,662 --> 00:36:19,662
 to 2008
 
-637
+638
 00:36:20,102 --> 00:36:22,102
 this accident could
 have been prevented
 
-638
+639
 00:36:23,224 --> 00:36:25,124
 hey chief for seeing
 an air data cal message
 
-639
+640
 00:36:25,139 --> 00:36:27,299
 can you send someone
 up here to clear that up?
 
-640
+641
 00:36:27,660 --> 00:36:30,242
 the maintenance personnel that
 came out to the aircraft that day
 
-641
+642
 00:36:30,739 --> 00:36:31,939
 of the accident
 
-642
+643
 00:36:32,180 --> 00:36:33,780
 did everything exactly right
 
-643
+644
 00:36:33,901 --> 00:36:36,382
 they were just doing the
 procedure they were taught
 
-644
+645
 00:36:38,940 --> 00:36:41,440
 it doesn't seem like
 anybody understood
 
-645
+646
 00:36:41,741 --> 00:36:43,341
 what this recalibration could do
 
-646
+647
 00:36:45,424 --> 00:36:48,685
 the investigation has
 uncovered the catastrophic gap
 
-647
+648
 00:36:48,779 --> 00:36:51,179
 in the B-2 crews
 understanding of the link
 
-648
+649
 00:36:51,341 --> 00:36:53,341
 between calibrating sensors
 
-649
+650
 00:36:53,341 --> 00:36:54,781
 and flight controls
 
-650
+651
 00:36:55,584 --> 00:36:56,584
 145
 rotate
 
-651
+652
 00:36:57,225 --> 00:37:01,639
 there is no way a pilot or a maintainer
 would understand the system well enough
 
-652
+653
 00:37:02,261 --> 00:37:04,261
 to realize what
 could have happened
 
-653
+654
 00:37:04,824 --> 00:37:06,524
 and they did that
 data calibration
 
-654
+655
 00:37:07,385 --> 00:37:10,460
 that lack of understanding
 left the crew of spirit of Kansas
 
-655
+656
 00:37:11,060 --> 00:37:13,241
 vulnerable to the
 effects of the faulty data
 
-656
+657
 00:37:15,539 --> 00:37:16,539
 investigators now wonder
 
-657
+658
 00:37:16,981 --> 00:37:21,733
 if there was something that pilots
 could have done to save their plane
 
-658
+659
 00:37:27,899 --> 00:37:28,899
 18 seconds
 
-659
+660
 00:37:29,621 --> 00:37:31,121
 to get this plane
 under control
 
-660
+661
 00:37:33,543 --> 00:37:34,543
 was it even possible?
 
-661
+662
 00:37:35,820 --> 00:37:38,101
 investigators reexamine
 the crash sequence
 
-662
+663
 00:37:38,662 --> 00:37:41,423
 to see if the pilots of the
 B-2 bomber spirit of Kansas
 
-663
+664
 00:37:42,343 --> 00:37:45,580
 could have prevented their
 aircraft from crashing at Guam?
 
-664
+665
 00:37:47,422 --> 00:37:48,422
 145
 rotate
 
-665
+666
 00:37:50,945 --> 00:37:51,945
 certainly
 
-666
+667
 00:37:52,506 --> 00:37:56,818
 no B-2 pilot wanted to be
 the first to eject from a B-2
 
-667
+668
 00:37:59,540 --> 00:38:01,040
 plane goes full nose up
 
-668
+669
 00:38:02,624 --> 00:38:04,124
 he pushes full forward
 
-669
+670
 00:38:04,625 --> 00:38:05,625
 and goes full power
 
-670
+671
 00:38:10,821 --> 00:38:12,621
 plane starts rolling left
 
-671
+672
 00:38:14,700 --> 00:38:15,700
 he applies right stick
 
-672
+673
 00:38:17,542 --> 00:38:18,582
 he's fighting
 
-673
+674
 00:38:19,544 --> 00:38:22,906
 investigators determine that
 major link took the correct action
 
-674
+675
 00:38:23,506 --> 00:38:24,506
 to save the B-2 bomber
 
-675
+676
 00:38:26,900 --> 00:38:30,100
 but because of its low
 altitude and slow speed
 
-676
+677
 00:38:30,263 --> 00:38:31,763
 disaster was unavoidable
 
-677
+678
 00:38:33,385 --> 00:38:35,939
 ultimately this was a no
 win situation with the crew
 
-678
+679
 00:38:37,059 --> 00:38:38,559
 as we determine
 
-679
+680
 00:38:39,062 --> 00:38:41,142
 with hundreds and hundreds
 of simulations afterwards
 
-680
+681
 00:38:41,623 --> 00:38:45,306
 no one could have flown
 this aircraft out of that situation
 
-681
+682
 00:38:50,021 --> 00:38:54,718
 the data also shows just how close
 the pilots came to losing their lives
 
-682
+683
 00:38:56,461 --> 00:38:58,261
 they are seconds
 away from impact
 
-683
+684
 00:38:59,023 --> 00:39:00,023
 and
 
-684
+685
 00:39:00,698 --> 00:39:02,398
 they still hadn't
 pulled the handle
 
-685
+686
 00:39:02,481 --> 00:39:05,021
 if they had delayed even
 a fraction of second later
 
-686
+687
 00:39:05,582 --> 00:39:06,582
 to eject
 
-687
+688
 00:39:07,144 --> 00:39:10,305
 they both likely would
 not have survived
 
-688
+689
 00:39:12,500 --> 00:39:15,400
 the video of the accident
 shows that the plane's left wing
 
-689
+690
 00:39:15,461 --> 00:39:18,503
 was already scraping the
 ground when the pilots ejected
 
-690
+691
 00:39:21,105 --> 00:39:22,105
 we've gotta get out
 
-691
+692
 00:39:32,618 --> 00:39:34,118
 they're heroes in the sense that
 
-692
+693
 00:39:34,119 --> 00:39:36,619
 there guys waited to the
 very last possible second
 
-693
+694
 00:39:37,783 --> 00:39:40,340
 I don't know if many other
 people that can say that they waited
 
-694
+695
 00:39:40,620 --> 00:39:42,820
 till the wing tip hit the
 ground before ejecting
 
-695
+696
 00:39:44,021 --> 00:39:45,021
 can you imagine that?
 
-696
+697
 00:39:46,299 --> 00:39:48,381
 all pilots in the
 air force are good
 
-697
+698
 00:39:48,531 --> 00:39:49,531
 or maybe great
 
-698
+699
 00:39:50,540 --> 00:39:53,062
 but these guys were
 truly outstanding
 
-699
+700
 00:39:53,383 --> 00:39:56,383
 and they were very very close
 despite everything
 
-700
+701
 00:39:57,541 --> 00:39:59,141
 to actually saving that aircraft
 
-701
+702
 00:40:01,784 --> 00:40:04,646
 one of the most sophisticated
 warplanes on earth
 
-702
+703
 00:40:04,905 --> 00:40:07,085
 was brought down by a
 combination of poor whether
 
-703
+704
 00:40:07,700 --> 00:40:09,380
 who would have guessed
 
-704
+705
 00:40:09,381 --> 00:40:11,381
 that a little bit of moisture
 
-705
+706
 00:40:11,382 --> 00:40:12,815
 would have led to all theses
 
-706
+707
 00:40:12,818 --> 00:40:14,418
 and poor communications
 
-707
+708
 00:40:14,499 --> 00:40:16,499
 which left Grieve and Link
 without understanding
 
-708
+709
 00:40:16,979 --> 00:40:18,679
 recalibrating their sensors
 
-709
+710
 00:40:19,221 --> 00:40:21,161
 could lead to a serious
 flight control issue
 
-710
+711
 00:40:23,701 --> 00:40:24,701
 100 knots
 
-711
+712
 00:40:26,662 --> 00:40:28,950
 this accident didn't
 happened because of bad data
 
-712
+713
 00:40:29,500 --> 00:40:31,000
 not because of bad software
 
-713
+714
 00:40:31,501 --> 00:40:33,001
 not because of bad weather
 
-714
+715
 00:40:33,141 --> 00:40:34,941
 not because of
 bad decision making
 
-715
+716
 00:40:35,983 --> 00:40:37,983
 it happened because
 of bad communication
 
-716
+717
 00:40:39,667 --> 00:40:41,267
 in the end safety is everything
 
-717
+718
 00:40:42,219 --> 00:40:44,219
 it doesn't matter
 if it's an airliner
 
-718
+719
 00:40:44,501 --> 00:40:45,541
 a fighter jet
 
-719
+720
 00:40:45,942 --> 00:40:47,442
 a space plane or stealth bomber
 
-720
+721
 00:40:48,184 --> 00:40:49,184
 full power
 
-721
+722
 00:40:49,205 --> 00:40:53,301
 safety is critical and safety
 depends on communication
 
-722
+723
 00:40:55,983 --> 00:40:59,183
 the air force investigation
 underscores the need for pilots
 
-723
+724
 00:40:59,340 --> 00:41:02,742
 to be kept informed about their
 technology controlling their airplanes
 
-724
+725
 00:41:05,264 --> 00:41:06,264
 do really really
 
-725
+726
 00:41:07,266 --> 00:41:10,346
 wanted to leave the defense of your
 families your children your grand children
 
-726
+727
 00:41:11,461 --> 00:41:12,501
 to a computer
 
-727
+728
 00:41:13,303 --> 00:41:16,945
 or do you want to leave it to
 the brightest asset that we have
 
-728
+729
 00:41:18,580 --> 00:41:20,180
 and that is the human brain
 
-729
+730
 00:41:22,822 --> 00:41:26,780
 in spite of being involved in the most
 expensive aviation disaster in history
 
-730
+731
 00:41:27,620 --> 00:41:30,320
 Major Ryan Link and
 Captain Justin Grieve
 
-731
+732
 00:41:30,740 --> 00:41:32,861
 went on to have
 successful military careers
 
-732
+733
 00:41:34,138 --> 00:41:36,638
 the B-2 was back in the air
 two month after the crash
 
-733
+734
 00:41:37,821 --> 00:41:39,821
 the flight computer
 was redesigned
 
-734
+735
 00:41:40,102 --> 00:41:41,602
 to prevent faulty air data
 
-735
+736
 00:41:44,626 --> 00:41:48,240
 the procedure for using pitot heat
 instead of recalibrating the sensors
 
-736
+737
 00:41:49,058 --> 00:41:52,058
 is documented in air force
 manuals and technical documents
 
-737
+738
 00:41:54,423 --> 00:41:57,023
 there hasn't been an issue
 with faulty air data since
 
-738
+739
 00:41:59,225 --> 00:42:01,225
 Northrop produced
 an amazing aircraft
 
-739
+740
 00:42:01,740 --> 00:42:03,740
 then I commend them
 and the maintainers
 
-740
+741
 00:42:04,021 --> 00:42:06,101
 and the aviators that
 continue to make the B-2
 
-741
+742
 00:42:07,219 --> 00:42:09,299
 the envy to the world
 
