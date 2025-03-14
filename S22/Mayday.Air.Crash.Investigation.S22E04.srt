@@ -39,7 +39,7 @@ number 4 engine position
 
 9
 00:00:39,025 --> 00:00:40,025
-the wing is clean
+the wing was clean
 
 10
 00:00:40,420 --> 00:00:41,420
@@ -74,9 +74,9 @@ trans air flight 671 is preparing
 for take off at Luxembourg airport
 
 17
-00:01:27,665 --> 00:01:29,665
-forecast says we'll get
-some weather about an hour
+00:01:27,665 --> 00:01:29,765
+forecast says we'll get some
+weather about in an hour
 
 18
 00:01:30,782 --> 00:01:32,482
@@ -93,7 +93,7 @@ highly experienced Swedish pilot
 
 21
 00:01:38,701 --> 00:01:42,103
-who’s has been flying Boeing
+who's has been flying Boeing
 707 aircraft for over a decade
 
 22
@@ -294,13 +294,13 @@ off at 29,000 feet
 
 64
 00:04:24,106 --> 00:04:27,200
-the flight ban indicated
-with the weight to the aircraft
+the flight plan indicated
+with the weight of the aircraft
 
 65
 00:04:27,379 --> 00:04:29,402
 we should stay at a
-slightly low at the normal
+slightly lower at the normal
 
 66
 00:04:30,221 --> 00:04:32,745
@@ -469,7 +469,7 @@ strength to level the plane
 
 102
 00:06:48,459 --> 00:06:51,021
-have the captain not
+had the captain not
 reacted as quickly as he did
 
 103
@@ -634,7 +634,7 @@ would happened next
 
 136
 00:09:24,464 --> 00:09:26,464
-I believe if anything ended
+I believed if anything ended
 
 137
 00:09:27,300 --> 00:09:28,900
@@ -987,7 +987,7 @@ increase in the angle of descent
 
 211
 00:13:59,658 --> 00:14:03,704
-unfortunately this off course meant
+unfortunately this of course meant
 they then descended more rapidly
 
 212
@@ -1248,7 +1248,7 @@ it's France's flight test center
 267
 00:17:44,541 --> 00:17:47,613
 and it was also a space
-shuttle ultimate learning ground
+shuttle alternate learning ground
 
 268
 00:17:47,664 --> 00:17:49,664
@@ -1946,11 +1946,11 @@ when they reached 33000 feet
 416
 00:27:33,821 --> 00:27:36,822
 those two conditions would
-have generated sever turbulence
+have generated severe turbulence
 
 417
 00:27:36,824 --> 00:27:39,344
-but he would think it could
+but they think it could
 withstand the turbulence
 
 418
@@ -1994,7 +1994,7 @@ shape of the damage
 426
 00:28:19,901 --> 00:28:23,401
 and from transfer
-white paint from
+of white paint from
 
 427
 00:28:23,818 --> 00:28:25,718
@@ -2046,7 +2046,7 @@ surface they broke from stress
 
 437
 00:29:10,346 --> 00:29:12,346
-this midspar
+this mid spar
 fitting is different
 
 438
@@ -2079,7 +2079,7 @@ over time
 
 444
 00:29:33,500 --> 00:29:36,800
-the inboard midspar fitting
+the inboard mid spar fitting
 on engine 3 was weakened
 
 445
@@ -2090,7 +2090,7 @@ cause by metal fatigue
 446
 00:29:40,580 --> 00:29:43,380
 when it snapped off
-in sever turbulence
+in severe turbulence
 
 447
 00:29:43,421 --> 00:29:45,421
@@ -2108,7 +2108,7 @@ okay let's see what we got
 450
 00:30:01,420 --> 00:30:06,821
 to establish a detailed history of
-flight 671's broken midspar fitting
+flight 671's broken mid spar fitting
 
 451
 00:30:07,104 --> 00:30:10,143
@@ -2138,13 +2138,14 @@ each little stress cycle
 makes the crack a little bigger
 
 457
-00:30:26,744 --> 00:30:30,281
-these are likely from the flight plane
-flew since trans air put it back in service
+00:30:26,744 --> 00:30:29,581
+these are likely from the
+flights the plane flew since
 
 458
-00:30:30,682 --> 00:30:31,682
-a few weeks ago
+00:30:29,582 --> 00:30:32,382
+trans air put it back into
+service a few weeks ago
 
 459
 00:30:32,423 --> 00:30:33,423
@@ -2153,7 +2154,7 @@ what about before that?
 460
 00:30:34,979 --> 00:30:37,981
 as the team continues
-examining the crack midspar fitting
+examining the crack mid spar fitting
 
 461
 00:30:38,618 --> 00:30:40,618
@@ -2248,7 +2249,7 @@ were corrosion pits
 481
 00:31:58,060 --> 00:32:02,762
 that grow into the one crack and
-eventually fracture the midspar fitting
+eventually fracture the mid spar fitting
 
 482
 00:32:03,944 --> 00:32:05,944
@@ -2315,7 +2316,7 @@ contributed to the crash
 
 496
 00:32:51,818 --> 00:32:55,621
-you start look at the
+you start to look at the
 age of the parts that failed
 
 497
@@ -2350,7 +2351,7 @@ banned from united kingdom space
 503
 00:33:20,419 --> 00:33:23,561
 according this Trans air didn't
-do a midspar maintenance check
+do a mid spar maintenance check
 
 504
 00:33:25,783 --> 00:33:29,758
@@ -2443,7 +2444,7 @@ with no one being hurt
 522
 00:34:39,543 --> 00:34:44,143
 the NTSB investigates and
-discovers that a broken midspar fitting
+discovers that a broken mid spar fitting
 
 523
 00:34:44,265 --> 00:34:47,065
@@ -2470,7 +2471,7 @@ the NTSB preliminary report
 
 528
 00:35:01,147 --> 00:35:04,039
-curios about the Miami’s
+curios about the Miami's
 plane's maintenance history
 
 529
@@ -2500,7 +2501,7 @@ and the French accident
 
 534
 00:35:27,979 --> 00:35:31,942
-the midspar fitting had
+the mid spar fitting had
 failed with a very similar way
 
 535
@@ -2515,7 +2516,7 @@ maintaining properly
 
 537
 00:35:44,867 --> 00:35:49,942
-at a time the midspar fitting
+at a time the mid spar fitting
 were required to be inspected
 
 538
@@ -2561,12 +2562,12 @@ inspect the fitting?
 
 547
 00:36:19,985 --> 00:36:22,185
-you supposed to carry
-out close visual inspection
+you're supposed to carry
+out a close visual inspection
 
 548
 00:36:22,266 --> 00:36:25,274
-for cracks on the expose
+for cracks on the exposed
 surfaces of the fitting
 
 549
@@ -2591,11 +2592,11 @@ so why is that a problem?
 well it's problem
 
 554
-00:36:32,580 --> 00:36:33,680
-cause you can't see inside
+00:36:32,580 --> 00:36:33,780
+because you can't see inside
 
 555
-00:36:33,681 --> 00:36:36,865
+00:36:33,781 --> 00:36:36,965
 unless you remove the engine
 and the pylon from the wing
 
@@ -2605,7 +2606,7 @@ it's troubling discovery
 
 557
 00:36:40,421 --> 00:36:45,061
-the midspar fitting is normally inspected
+the mid spar fitting is normally inspected
 by removing a panel on the pylon
 
 558
@@ -2626,7 +2627,7 @@ the inside of the fitting
 561
 00:36:57,060 --> 00:37:02,980
 Boeing did not require this
-assembly of the midspar fitting
+assembly of the mid spar fitting
 
 562
 00:37:04,381 --> 00:37:07,981
@@ -2667,12 +2668,12 @@ investigators of flight 671
 570
 00:37:36,780 --> 00:37:40,742
 do a deep dive into the history
-of the Boeing 707 midspar fitting
+of the Boeing 707 mid spar fitting
 
 571
 00:37:42,425 --> 00:37:46,420
 there have been reports more than
-35 cracks midspar fitting on the 707
+35 cracks mid spar fitting on the 707
 
 572
 00:37:46,861 --> 00:37:48,941
@@ -2731,7 +2732,7 @@ this doesn't happen again
 583
 00:38:28,144 --> 00:38:32,244
 investigators conclude that a
-hidden fracture in the midspar fitting
+hidden fracture in the mid spar fitting
 
 584
 00:38:32,379 --> 00:38:36,102
@@ -2777,7 +2778,7 @@ that held this pylon together
 
 593
 00:39:16,141 --> 00:39:20,864
-the weaken midspar fitting finally
+the weaken mid spar fitting finally
 breaks and both engines are lost
 
 594
@@ -2814,7 +2815,7 @@ yeah
 601
 00:39:46,302 --> 00:39:49,144
 captain Berglund skill and
-stamina prove remarkable
+stamina proved remarkable
 
 602
 00:39:49,704 --> 00:39:52,560
@@ -2845,7 +2846,7 @@ he was just one fantastic pilots
 
 608
 00:40:12,901 --> 00:40:14,901
-kabo 671 
+kabo 671
 we have no radar contact
 
 609
@@ -2912,7 +2913,7 @@ it shows an awful lot about
 
 623
 00:41:03,385 --> 00:41:06,385
-that spirit of pilots and survival
+that spirits of pilots and survival
 that they somehow coalesce together
 
 624
@@ -2923,7 +2924,7 @@ own individual skills
 625
 00:41:15,865 --> 00:41:20,339
 the BEA recommends that inspection
-of the current midspar fitting be modified
+of the current mid spar fitting be modified
 
 626
 00:41:20,900 --> 00:41:22,900
@@ -2938,12 +2939,12 @@ reinforced fittings
 628
 00:41:29,341 --> 00:41:34,341
 the FAA decided to mandate
-replacement of the midspar fittings
+replacement of the mid spar fittings
 
 629
 00:41:35,260 --> 00:41:37,560
 with a new and
-improved midspar fittings
+improved mid spar fittings
 
 630
 00:41:38,662 --> 00:41:41,362
@@ -2962,18 +2963,18 @@ Trans air cargo 671
 
 633
 00:41:49,940 --> 00:41:53,299
-recieved the Hugh Gordon-Burge
-Award for outstanding airmanship
+received the Hugh Gordon-Burge
+Award for outstanding airman ship
 
 634
 00:41:54,942 --> 00:41:56,742
 this flight was a
-heroic acheivement
+heroic achievement
 
 635
 00:41:56,784 --> 00:42:01,980
 where the crew have recovered
-from a virtually impossibe situation
+from a virtually impossible situation
 
 636
 00:42:02,141 --> 00:42:04,360
