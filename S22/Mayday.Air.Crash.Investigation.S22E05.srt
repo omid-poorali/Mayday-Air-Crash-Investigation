@@ -1164,9 +1164,9 @@ control the pitch of the jet
 all the way through the landing
 
 253
-00:14:43,426 --> 00:14:45,347
+00:14:43,426 --> 00:14:45,647
 if it's controllable we
-ought to try to landed it
+ought to just try and land it
 
 254
 00:14:46,548 --> 00:14:51,001
@@ -1647,12 +1647,12 @@ explanation for the crash
 
 359
 00:20:54,262 --> 00:20:57,805
-LAX maintenance has said the
-pilots reported the jammed stabilizer
+LAX maintenance is saying the
+pilots reported a jammed stabilizer
 
 360
 00:20:58,227 --> 00:21:02,727
-NTSB system's investigator
+NTSB system investigator
 Jeff Guzzetti joins the investigation
 
 361
@@ -1880,8 +1880,8 @@ that really just blew our mind
 
 409
 00:24:01,382 --> 00:24:03,882
-the jack-screw and
-the acme nut fell apart
+the jack-screw and the acme
+nut were found a few feet apart
 
 410
 00:24:04,503 --> 00:24:06,503
@@ -2659,7 +2659,7 @@ on flight 261 inspected
 576
 00:34:04,882 --> 00:34:06,882
 when and how it
-should have be?
+should have been?
 
 577
 00:34:06,924 --> 00:34:10,080
@@ -2782,7 +2782,7 @@ I remember it well
 602
 00:35:40,941 --> 00:35:43,441
 investigators
-contacted John Liotine
+contact John Liotine
 
 603
 00:35:43,502 --> 00:35:47,664
@@ -3149,7 +3149,7 @@ here we go
 
 683
 00:40:49,263 --> 00:40:52,124
-I was seconded by what
+I was sicken by what
 I listened on the CVR
 
 684
@@ -3208,7 +3208,7 @@ because of lack of lubrication
 
 696
 00:41:46,664 --> 00:41:50,820
-this is a maintenance accident 
+this is a maintenance accident
 pure in simple
 
 697
