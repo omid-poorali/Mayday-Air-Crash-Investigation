@@ -92,8 +92,8 @@ above Pennsylvania
 
 21
 00:01:23,983 --> 00:01:26,002
-smother ride up here
-rather than 33,000
+it's smother right
+up here than 33,000
 
 22
 00:01:27,950 --> 00:01:29,750
@@ -204,12 +204,12 @@ many of them returning home
 45
 00:02:48,462 --> 00:02:50,483
 please put your seat
-in the upward position
+in the upright position
 
 46
 00:02:54,902 --> 00:02:57,000
 flight started out
-the rather routinely
+rather routinely
 
 47
 00:02:57,000 --> 00:02:59,898
@@ -222,12 +222,12 @@ American 1572
 
 49
 00:03:02,822 --> 00:03:06,704
-descend that pilot discretion
+descend at pilot's discretion
 maintain flight level 190
 
 50
 00:03:07,619 --> 00:03:10,641
-pilots , discretion to
+pilot's discretion to
 190, American 1572
 
 51
@@ -322,7 +322,7 @@ we've started our descent
 
 70
 00:04:09,663 --> 00:04:13,018
-right now they've reported some
+and right now they've reported some
 moderate turbulence on the descent
 
 71
@@ -354,7 +354,7 @@ lot of turbulence
 
 77
 00:04:30,581 --> 00:04:32,181
-you know how to  land it
+you know how to land it
 
 78
 00:04:33,142 --> 00:04:35,423
@@ -576,7 +576,7 @@ and clear for them to land on
 
 124
 00:07:13,701 --> 00:07:15,901
-that there no obstruction
+that there are no obstructions 
 no other traffic
 
 125
@@ -608,17 +608,18 @@ the controller to see
 
 131
 00:07:41,820 --> 00:07:45,220
-the conditions of the runway and
+the condition of the runway and
 to give them the information needed
 
 132
 00:07:45,221 --> 00:07:48,821
 to see if anything during the
-thunderstorm had blown up to the runway
+thunderstorm had blown onto the runway
 
 133
 00:07:48,979 --> 00:07:50,779
-so they can make a safe landing
+so that they could
+make a safe landing
 
 134
 00:07:51,780 --> 00:07:55,022
@@ -738,7 +739,7 @@ any official tower assistance
 
 159
 00:09:25,262 --> 00:09:26,262
-flaps 14
+flaps 40
 
 160
 00:09:27,263 --> 00:09:29,420
@@ -872,7 +873,7 @@ okay
 189
 00:11:06,586 --> 00:11:08,741
 tell them we're going down
-tell  emergency
+tell them emergency
 
 190
 00:11:08,801 --> 00:11:09,801
@@ -1392,7 +1393,7 @@ the correct indication?
 
 299
 00:18:06,468 --> 00:18:08,468
-see if statistic
+let's see if statistic
 system is working
 
 300
@@ -1414,7 +1415,7 @@ it controls airspeed indicators
 
 304
 00:18:18,581 --> 00:18:21,581
-and also controls the
+and it also controls the
 vertical velocity indications
 
 305
@@ -1639,7 +1640,7 @@ you'd have downdraft
 352
 00:21:07,781 --> 00:21:09,822
 there is a lot of wind
-on the airport all night
+around the airport all night
 
 353
 00:21:10,063 --> 00:21:12,259
@@ -1736,8 +1737,8 @@ besides the weather
 
 373
 00:22:04,422 --> 00:22:06,462
-well the tower was
-shutdown at that time
+well the tower was shutdown
+for repairs at the time
 
 374
 00:22:07,819 --> 00:22:08,819
@@ -1779,7 +1780,7 @@ demanding and it's precise job
 
 382
 00:22:34,900 --> 00:22:37,440
-if there any major disruptions
+if there are any major disruptions
 
 383
 00:22:37,981 --> 00:22:40,203
@@ -1788,7 +1789,7 @@ at Donna radar scope
 
 384
 00:22:40,747 --> 00:22:44,280
-it could effect
+it could affect
 aircraft traffic greatly
 
 385
@@ -1878,8 +1879,8 @@ tower was not open
 
 404
 00:23:35,778 --> 00:23:38,860
-so therefore he didn't have
-authority to issued any clearance
+so therefore you didn't have
+authority to issue a landing clearance
 
 405
 00:23:39,381 --> 00:23:44,184
@@ -2029,11 +2030,11 @@ precision approach
 437
 00:25:36,584 --> 00:25:39,746
 where you have a minimum descent altitude
-that you should not be going bellow
+that you should not be going below
 
 438
 00:25:40,224 --> 00:25:44,322
-the faster you descending the
+the faster you're descending the
 earlier you have to start leveling off
 
 439
@@ -2077,7 +2078,7 @@ MDA in less than a minute
 447
 00:26:12,185 --> 00:26:15,242
 sure that's fast but the first officer
-should be calling the altitudes
+should be calling out the altitudes
 
 448
 00:26:16,105 --> 00:26:20,508
@@ -2393,7 +2394,7 @@ I can see that
 
 516
 00:30:22,102 --> 00:30:25,463
-in this case cut of this storming
+in this case beacuse of this storming
 that was going through that area
 
 517
@@ -2572,7 +2573,7 @@ in the Bradley tower
 
 553
 00:32:32,580 --> 00:32:35,701
-didn't keep the pilots update
+didn't keep the pilots updated
 with the current altimeter setting?
 
 554
@@ -2759,7 +2760,7 @@ add 76 feet to that
 
 593
 00:34:45,883 --> 00:34:47,342
-they would have hit anything
+they wouldn't have hit anything
 
 594
 00:34:47,363 --> 00:34:48,363
@@ -2987,7 +2988,7 @@ both of their engines are gone
 642
 00:37:39,502 --> 00:37:41,562
 that's recipe for stall if
-I have already see one
+I have ever see one
 
 643
 00:37:42,063 --> 00:37:44,905
@@ -3135,7 +3136,7 @@ to get a little bit further
 
 673
 00:39:05,142 --> 00:39:08,243
-if he had not have done that of if
+if he had not have done that or if
 he would have delayed it a little bit
 
 674
@@ -3164,7 +3165,7 @@ so they landed early
 679
 00:39:24,340 --> 00:39:26,902
 kind of scooted and flopped
-onto pavement of the runway
+onto the pavement of the runway
 
 680
 00:39:35,299 --> 00:39:38,342
